@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogith M R
 
-**VLSI Engineer | Digital Design | Verilog | Embedded Systems | PCB | PLC & SCADA**
+**VLSI Engineer | Digital Design | Verilog | FPGA | Embedded Systems | PCB | PLC & SCADA**
 
 ---
 

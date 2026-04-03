@@ -78,7 +78,7 @@ Motivated Electronics and VLSI engineer with strong fundamentals in digital desi
 
 ## 📫 Contact
 - 📧 Email: mryogith@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yogith-gowda-07b594296  
+- 💼 LinkedIn: https://www.linkedin.com/in/mr-yogith-596361400/
 
 ---
 
